@@ -1,6 +1,9 @@
 # Cashier-Management-System
 Program Kasir tempat makan dengan menggunakan bahasa C++
 
+##Penjelasan
+Project ini merupakan sebuah program kasir sederhana yang berfungsi untuk user melakukan pemilihan barang yang dibeli oleh pembeli dengan tampilan program yang cukup serderhana. Program ini dilengkapi dengan sorting, searching, update dan validasi-validasi sehingga program dapat berjalan sesuai dengan keinginan user. program ini juga dapat membantu gudang dalam mengelola stok dari sebuah barang yang tersedia.
+
 ## Info Kelompok
 ### Kelompok 8 Struktur Data Semester Genap 2021/2022
 ### Anggota Kelompok
