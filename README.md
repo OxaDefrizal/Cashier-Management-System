@@ -2,7 +2,7 @@
 Program Kasir tempat makan dengan menggunakan bahasa C++
 
 ## Info Kelompok
-### Kelompok 1 Pemrograman Lanjut Semester Ganjil 2022/2023
+### Kelompok 8 Struktur Data Semester Genap 2021/2022
 ### Anggota Kelompok
 |**No**| **Nama** | **NIM** | **Contribution** |
 |------|----------|---------|------------------|
